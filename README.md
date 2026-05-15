@@ -1,4 +1,8 @@
-# Start commands
+# Blog React App
+
+A simple blog application built with React.
+
+## Start Commands
 
 To run the API server:
 
