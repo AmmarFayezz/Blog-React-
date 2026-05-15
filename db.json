@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "email": "ammar@gmail.com",
+      "password": "$2a$10$CruXmcVECj33cR4gBrhLL.RC4Txiqwf/UjmktPkHqnXBuCVmws8Ge",
+      "name": "ammar",
+      "id": 1
+    }
+  ],
+  "posts": [
+    {
+      "title": "react",
+      "description": "react is gooooooood",
+      "image": "https://opensource.fb.com/img/projects/react.jpg",
+      "userId": 1,
+      "id": 1
+    }
+  ]
+}

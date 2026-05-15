@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@import "daisyui/daisyui.css";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+
+
+  #root {
+    min-height: 100vh;
+  }
+}
+
+@utility container {
+  @apply mx-auto px-4;
+}
