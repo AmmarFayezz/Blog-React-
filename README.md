@@ -1,5 +1,13 @@
-this is blog react app 
+# Start commands
 
-to run the api server : npm run start:api
+To run the API server:
 
-to start the app : npm run dev 
+```bash
+npm run start:api
+```
+
+To start the app:
+
+```bash
+npm run dev
+```
